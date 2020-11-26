@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56601090241",
+    "firebase_url": "https://divide-ai-b6983.firebaseio.com",
+    "project_id": "divide-ai-b6983",
+    "storage_bucket": "divide-ai-b6983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56601090241:android:0025f9706ef46ad537dc40",
+        "android_client_info": {
+          "package_name": "tech.divideai.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56601090241-dv068k3q5idh3ks9dptak85ktmh9gg0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.divideai.app",
+            "certificate_hash": "60d8a9b8a88c37abc2c38ec62686cb5e6bf13061"
+          }
+        },
+        {
+          "client_id": "56601090241-vqgc163lo9ubc3gn8j2ag706h88lqbrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPriSy5x4lic40RKz-79C8LkQla6d2i3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56601090241-vqgc163lo9ubc3gn8j2ag706h88lqbrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
