@@ -32,6 +32,18 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "charts_common",
+      "rootUri": "file:///home/fabio/development/flutter/.pub-cache/hosted/pub.dartlang.org/charts_common-0.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "charts_flutter",
+      "rootUri": "file:///home/fabio/development/flutter/.pub-cache/hosted/pub.dartlang.org/charts_flutter-0.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "1.23"
+    },
+    {
       "name": "cloud_firestore",
       "rootUri": "file:///home/fabio/development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.11",
       "packageUri": "lib/",
@@ -220,6 +232,12 @@
     {
       "name": "js",
       "rootUri": "file:///home/fabio/development/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///home/fabio/development/flutter/.pub-cache/hosted/pub.dartlang.org/logging-0.11.4",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
@@ -422,7 +440,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-11-19T23:40:31.423306Z",
+  "generated": "2020-11-26T22:17:58.877274Z",
   "generator": "pub",
   "generatorVersion": "2.8.4"
 }
