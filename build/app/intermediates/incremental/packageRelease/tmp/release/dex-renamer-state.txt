@@ -1,0 +1,4 @@
+#Thu Nov 26 19:14:29 AMT 2020
+base.0=/home/fabio/Área de Trabalho/tcc/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
