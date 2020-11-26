@@ -40,10 +40,8 @@ class _PaymentDetailState extends State<PaymentDetail> {
         _controllerValor.text = "R\$ " + widget.post.data["valor"];
         _controllerDataPagamento.text = DateFormat('dd/mM/yyyy')
             .format(widget.post.data["dataPagamento"].toDate());
-        // _controllerqtdePessoas.text = widget.post.data["qtde"] +
-        //     " pessoas | R\$ " +
-        //     widget.post.data["valorDividido"].toString() +
-        //     " pra cada";
+        _controllerqtdePessoas.text =
+            widget.post.data["qtde"].toString() + " pessoas";
         _controllerDataVencimento.text = DateFormat('dd/mM/yyyy')
             .format(widget.post.data["dataVencimento"].toDate());
         comprovante = widget.post.data["urlComprovante"];
@@ -462,7 +460,7 @@ class _PaymentDetailState extends State<PaymentDetail> {
                           SizedBox(
                             height: 15,
                           ),
-                          _pagarOpcoes(),
+                          //_pagarOpcoes(),
                         ],
                       )),
                 ],
