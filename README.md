@@ -1,16 +1,7 @@
-# tcc
+# Divide.ai
 
-A new Flutter project.
+Fabio Selau - 802.079
 
-## Getting Started
+## Download do aplicativo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [APK](https://drive.google.com/file/d/1QwnaIS_5FZ0ciXgwJNsrL9m7C9XfH8y_/view?usp=sharing)
